@@ -9,19 +9,17 @@ Como Iniciar o Projeto
 Para iniciar o projeto em seu ambiente local, siga estas etapas:
 
 Clone o Repositório: Use o comando abaixo para clonar este repositório para o seu ambiente local:
-git clone https://github.com/IgoROweN/ProjetoAPI-Filmes-main.git
+   git clone https://github.com/IgoROweN/ProjetoAPI-Filmes-main.git
 
 Instale as Dependências: Navegue até o diretório do projeto e instale as dependências usando npm ou yarn:
-cd ProjetoAPI-Filmes-main
-npm install
-ou
-cd ProjetoAPI-Filmes-main
-yarn install
+   npm install
+   ou
+   yarn install
 
 Inicie o Servidor de Desenvolvimento: Depois de instalar as dependências, inicie o servidor de desenvolvimento com o seguinte comando:
-npm run dev
-ou
-yarn dev
+   npm run dev
+   ou
+   yarn dev
 
 Visualize o Projeto: Abra o navegador e acesse http://localhost:3000 para visualizar a aplicação em execução.
 Dependências Utilizadas
