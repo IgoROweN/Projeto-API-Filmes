@@ -39,3 +39,15 @@ Vite: Bundler e servidor de desenvolvimento para aplicações web modernas.
 Para mais informações sobre como utilizar cada dependência, consulte a documentação oficial de cada uma.
 
 
+Segue prints do site:
+
+
+![image](https://github.com/IgoROweN/Projeto-API-Filmes/assets/131922491/5bf80f5f-ab7f-43cc-b7a4-07579ad758ba)
+
+![image](https://github.com/IgoROweN/Projeto-API-Filmes/assets/131922491/9fe3d21c-d037-4549-9f1f-e60306154310)
+
+![image](https://github.com/IgoROweN/Projeto-API-Filmes/assets/131922491/a4ac1d24-9aa3-46e5-b332-1799bca90033)
+
+![image](https://github.com/IgoROweN/Projeto-API-Filmes/assets/131922491/e0a6347a-7b54-4b2b-a912-75db96034c24)
+
+
