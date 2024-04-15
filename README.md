@@ -1,7 +1,7 @@
 # ProjetoAPI-Filmes
 Projeto para a materia de Desenvolvimento Web III do curso Desenvolvimento de Software Multiplataforma (DSM) da Faculdade FATEC Franca - Dr. Thomaz Novelino.
 
-site hospedado na seguinte URL: htps://IgoROweN.github.io/Projeto-API-Filmes
+Site hospedado na seguinte URL: htps://IgoROweN.github.io/Projeto-API-Filmes
 
 O projeto é uma aplicação web consome a API pública do Open Movie Database (OMDb) para exibir informações sobre filmes. O projeto foi desenvolvido utilizando React.js para a parte frontend e Vite como bundler.
 
